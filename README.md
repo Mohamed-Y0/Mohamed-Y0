@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">- Now I'm Learning Nextjs and Going Deeper Into It by Creating TicketBounty App From a Course.<br>- Also Learning The Fundamentals of Frontend Architecture.<br>- Reading "You Don't Know JS: Yet" Series.<br><br>What Next?<br>- React Testing Library - Course.<br>- How To GraphQL - Course.<br>- The Art of Readable Code - Book.</p>
+<p align="left">- Now I'm Learning Nextjs and Going Deeper Into It by Creating TicketBounty App From a Course.<br>
+  - Also Learning The Fundamentals of Frontend Architecture.<br>
+  - Reading "You Don't Know JS: Yet" Book Series.<br>
+  <br>What Next?<br>
+  - React Testing Library - Course.<br>
+  - How To GraphQL - Course.<br>
+  - The Art of Readable Code - Book.</p>
 
 ###
 
